@@ -9,9 +9,12 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
+<div align = "center">
+
 # Molinetes-Subtes-BA
 
 ## Descripción
+</div>
 Este repositorio contiene un análisis detallado del transporte subterráneo en una ciudad específica, centrándose en la cantidad de pasajeros y su distribución en diferentes líneas y horarios. El objetivo principal es proporcionar información valiosa para mejorar la gestión del transporte subterráneo y optimizar la experiencia del usuario.
 
 ## Características del Análisis
