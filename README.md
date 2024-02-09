@@ -61,7 +61,7 @@
 
 <H2> 🚈  Podes encontrar  aca!  :point_down: La presentacion completa 🚅 </H2>
 
-🚝  [Presentacion](https://1drv.ms/p/c/6ccc2d91e80a0ebd/EakQfdAHKn9PibiMJ14V9d8B_6o7V8ULvSpHWWdAAbII9A?e=NbDwlK) - PowerPoint
+🚝  [Presentacion](https://github.com/bparedes21/Molinetes-Subtes-BA/blob/main/img/Presentation.pdf) - PowerPoint
 
 
 </div>
