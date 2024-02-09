@@ -13,25 +13,44 @@
 
 # Análisis del Transporte Subterráneo de Buenos Aires
 
+<H2> 🚈  Podes encontrar  aca!  :point_down: el Tablero 🚅 </H2>
+
+🚝  [Tablero](https://drive.google.com/file/d/16u1G5Sx5PXrwlN_WeM9vXL-G1itG5Noi/view?usp=sharing) - Power bi 
+
 ## Descripción
+
+</div>
 
 ¡Descubre los secretos ocultos del sistema de transporte subterráneo de Buenos Aires! Este repositorio contiene un análisis exhaustivo de los datos de los molinetes del subte de la Ciudad Autónoma de Buenos Aires (CABA), centrándose en la cantidad de pasajeros y su distribución en diferentes líneas y horarios. Desde la limpieza y transformación de datos hasta el análisis exploratorio, aquí encontrarás valiosa información sobre el funcionamiento y la eficiencia del transporte subterráneo en la capital argentina.
 
+<div align = "center">
+
 ## Características del Análisis
+
+</div>
+
 
 - **Análisis de Magnitudes:** Comparación entre la cantidad total y el promedio de pasajeros por línea para comprender completamente el panorama de las líneas de subte.
 - **Evolución Temporal:** Análisis de la evolución temporal del número total de pasajeros para identificar tendencias de crecimiento y cambios en la demanda a lo largo del tiempo.
 - **Distribución por Línea y Horario:** Investigación detallada sobre la distribución de pasajeros por cada línea y en diferentes horas del día para identificar patrones de uso y horas pico.
 - **Tendencias de Crecimiento:** Análisis de tendencias de crecimiento y demanda estacional para comprender mejor los patrones de viaje de los pasajeros.
 
+<div align = "center">
+
 ## Alcance y Dimensión del Proyecto
+
+</div>
 
 - **Alcance:** El análisis se centra en una ciudad específica con un sistema de transporte subterráneo bien establecido.
 - **Datos Utilizados:** Se utilizarán conjuntos de datos de pasajeros que incluyen información sobre líneas, estaciones, horarios y cantidad de pasajeros.
 - **Herramientas Utilizadas:** Se emplearán herramientas de análisis de datos como Python (pandas, matplotlib) y posiblemente Power BI para visualizar los resultados.
 - **Resultados Esperados:** Se espera obtener insights sobre la demanda de pasajeros, identificar áreas de mejora en la gestión del transporte subterráneo y proporcionar recomendaciones para optimizar la experiencia del usuario.
 
+<div align = "center">
+
 ## Estructura del Repositorio
+
+</div>
 
 - **`data/molinetes-2023.zip`:** Carpeta que contiene los conjuntos de datos utilizados en el análisis.
 - **`notebooks/`:** Carpeta que contiene los cuadernos de Jupyter utilizados para realizar el análisis y generar visualizaciones, script de python para Transformar los datos y script con funciones que generan y guardan los graficos.
@@ -39,7 +58,11 @@
 
 - **`README.md`:** Archivo que proporciona una descripción general del repositorio, características del análisis, alcance y dimensiones del proyecto.
 
+<div align = "center">
+
 ## Presentación del Tablero Power BI
+
+</div>
 
 A continuación se muestran algunas diapositivas del tablero Power BI que resumen los principales insights obtenidos del análisis:
 
@@ -47,18 +70,12 @@ A continuación se muestran algunas diapositivas del tablero Power BI que resume
 ![Diapositiva 2](/img/Slide2.jpg)
 ![Diapositiva 3](/img/Slide3.jpg)
 
-## Contribuciones
+<div align = "center">
 
-Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, sigue estos pasos:
+## Acerca del proyecto
 
-1. Haz un fork del repositorio.
-2. Clona el repositorio a tu máquina local.
-3. Crea una rama para tu contribución (`git checkout -b feature/nueva-funcionalidad`).
-4. Realiza tus cambios y commitea (`git commit -am 'Agrega nueva funcionalidad'`).
-5. Haz push de tu rama a GitHub (`git push origin feature/nueva-funcionalidad`).
-6. Crea un nuevo Pull Request desde tu rama a la rama principal del repositorio original.
+</div>
 
-¡Gracias por contribuir al proyecto!
 
 ---
 Este proyecto es parte de un análisis de transporte subterráneo realizado como parte de un ejercicio de análisis de datos. Los datos utilizados son ficticios y se utilizan únicamente con fines educativos.
