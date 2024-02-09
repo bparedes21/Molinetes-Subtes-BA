@@ -3,7 +3,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <p align="center">
-  <img src="/img/mapasubte.jpg" alt="Mapa de Líneas de Subte" width="500" height="300">
+  <img src="/img/subtes.png" alt="Mapa de Líneas de Subte" width="500" height="300">
 </p>
 
 
