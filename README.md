@@ -1,5 +1,7 @@
-![Diapositiva 1](/img/mapasubte.jpg)
 
+<div align="center">
+![Diapositiva 1](/img/mapasubte.jpg)
+</div>
 # Molinetes-Subtes-BA
 Limpieza, Transformacion, Carga de datos, Analisis
 
