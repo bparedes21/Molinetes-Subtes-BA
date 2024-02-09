@@ -33,9 +33,10 @@
 
 ## Estructura del Repositorio
 
-- **`data/`:** Carpeta que contiene los conjuntos de datos utilizados en el análisis.
-- **`notebooks/`:** Carpeta que contiene los cuadernos de Jupyter utilizados para realizar el análisis y generar visualizaciones.
+- **`data/molinetes-2023.zip`:** Carpeta que contiene los conjuntos de datos utilizados en el análisis.
+- **`notebooks/`:** Carpeta que contiene los cuadernos de Jupyter utilizados para realizar el análisis y generar visualizaciones, script de python para Transformar los datos y script con funciones que generan y guardan los graficos.
 - **`visualizations/`:** Carpeta que contiene las visualizaciones generadas durante el análisis.
+
 - **`README.md`:** Archivo que proporciona una descripción general del repositorio, características del análisis, alcance y dimensiones del proyecto.
 
 ## Presentación del Tablero Power BI
