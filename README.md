@@ -1,11 +1,8 @@
-
-
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <p align="center">
   <img src="/img/subtes.png" alt="Mapa de Líneas de Subte" width="300" height="300">
 </p>
-
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
@@ -60,11 +57,16 @@
 
 <div align = "center">
 
-## Presentación del Tablero Power BI
+## Presentaciónes PowerPoint con los graficos generados en Python
+
+<H2> 🚈  Podes encontrar  aca!  :point_down: La presentacion completa 🚅 </H2>
+
+🚝  [Presentacion](https://1drv.ms/p/c/6ccc2d91e80a0ebd/EakQfdAHKn9PibiMJ14V9d8Bm5FvrCHkxNa73_26XsFxrQ?e=iJ8aTg) - PowerPoint
+
 
 </div>
 
-A continuación se muestran algunas diapositivas del tablero Power BI que resumen los principales insights obtenidos del análisis:
+A continuación se muestran algunas diapositivas con los graficos generados en Python que resumen los principales insights obtenidos del análisis:
 
 ![Diapositiva 1](/img/Slide1.jpg)
 ![Diapositiva 2](/img/Slide2.jpg)
