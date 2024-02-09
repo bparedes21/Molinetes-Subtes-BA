@@ -11,11 +11,11 @@
 
 <div align = "center">
 
-# Molinetes-Subtes-BA
+# Análisis del Transporte Subterráneo de Buenos Aires
 
 ## Descripción
-</div>
-Este repositorio contiene un análisis detallado del transporte subterráneo en una ciudad específica, centrándose en la cantidad de pasajeros y su distribución en diferentes líneas y horarios. El objetivo principal es proporcionar información valiosa para mejorar la gestión del transporte subterráneo y optimizar la experiencia del usuario.
+
+¡Descubre los secretos ocultos del sistema de transporte subterráneo de Buenos Aires! Este repositorio contiene un análisis exhaustivo de los datos de los molinetes del subte de la Ciudad Autónoma de Buenos Aires (CABA), centrándose en la cantidad de pasajeros y su distribución en diferentes líneas y horarios. Desde la limpieza y transformación de datos hasta el análisis exploratorio, aquí encontrarás valiosa información sobre el funcionamiento y la eficiencia del transporte subterráneo en la capital argentina.
 
 ## Características del Análisis
 
