@@ -1,15 +1,10 @@
-
 <p align="center">
   <img src="/img/mapasubte.jpg" alt="Mapa de Líneas de Subte">
 </p>
 
 # Molinetes-Subtes-BA
-Limpieza, Transformacion, Carga de datos, Analisis
-
-# Análisis de Transporte Subterráneo - Repositorio en GitHub
 
 ## Descripción
-
 Este repositorio contiene un análisis detallado del transporte subterráneo en una ciudad específica, centrándose en la cantidad de pasajeros y su distribución en diferentes líneas y horarios. El objetivo principal es proporcionar información valiosa para mejorar la gestión del transporte subterráneo y optimizar la experiencia del usuario.
 
 ## Características del Análisis
