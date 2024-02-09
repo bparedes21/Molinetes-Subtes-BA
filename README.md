@@ -43,9 +43,9 @@
 
 A continuación se muestran algunas diapositivas del tablero Power BI que resumen los principales insights obtenidos del análisis:
 
-![Diapositiva 1](/img/diapositiva1.png)
-![Diapositiva 2](/img/diapositiva2.png)
-![Diapositiva 3](/img/diapositiva3.png)
+![Diapositiva 1](/img/Slide1.jpg)
+![Diapositiva 2](/img/Slide2.jpg)
+![Diapositiva 3](/img/Slide3.jpg)
 
 ## Contribuciones
 
