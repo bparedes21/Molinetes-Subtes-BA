@@ -57,11 +57,11 @@
 
 <div align = "center">
 
-## Presentaciónes PowerPoint con los graficos generados en Python
+# Presentaciónes PowerPoint con los graficos generados en Python
 
 <H2> 🚈  Podes encontrar  aca!  :point_down: La presentacion completa 🚅 </H2>
 
-🚝  [Presentacion](https://1drv.ms/p/c/6ccc2d91e80a0ebd/EakQfdAHKn9PibiMJ14V9d8Bm5FvrCHkxNa73_26XsFxrQ?e=iJ8aTg) - PowerPoint
+🚝  [Presentacion](https://1drv.ms/p/c/6ccc2d91e80a0ebd/EakQfdAHKn9PibiMJ14V9d8B_6o7V8ULvSpHWWdAAbII9A?e=qLYxsO) - PowerPoint
 
 
 </div>
