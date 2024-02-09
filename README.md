@@ -1,7 +1,8 @@
 
-<div align="center">
-![Diapositiva 1](/img/mapasubte.jpg)
-</div>
+<p align="center">
+  <img src="/img/mapasubte.jpg" alt="Mapa de Líneas de Subte">
+</p>
+
 # Molinetes-Subtes-BA
 Limpieza, Transformacion, Carga de datos, Analisis
 
