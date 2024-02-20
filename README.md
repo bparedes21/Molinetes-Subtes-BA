@@ -80,4 +80,4 @@ A continuación se muestran algunas diapositivas con los graficos generados en P
 
 
 ---
-Este proyecto es parte de un análisis de transporte subterráneo realizado como parte de un ejercicio de análisis de datos. Los datos utilizados son ficticios y se utilizan únicamente con fines educativos.
+Este proyecto es parte de un análisis de transporte subterráneo realizado como parte de un ejercicio de análisis de datos. Los datos utilizados son verdaderos: 🚝  [Enlace](https://data.buenosaires.gob.ar/dataset/subte-viajes-molinetes) - Molinetes.
